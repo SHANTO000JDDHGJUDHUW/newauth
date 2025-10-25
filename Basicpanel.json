@@ -14,6 +14,13 @@
       "HWID": null,
       "Expires": "2030-10-25T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "shanto",
+      "PasswordHash": "$2a$11$AVtMNg.2.8qGYSp5Gh/w5O7T88z9uOJxGjTuOlMjBu2kLSMxHqDeq",
+      "HWID": null,
+      "Expires": "2030-10-25T20:55:28",
+      "IsBanned": false
     }
   ]
 }
