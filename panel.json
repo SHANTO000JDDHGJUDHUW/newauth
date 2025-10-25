@@ -1,19 +1,4 @@
 {
   "Pause": false,
-  "Users": [
-    {
-      "Username": "sh",
-      "PasswordHash": "$2a$11$iQC3S1TXMTfN/2uY4QaKLuSwli1mR5Ra.9YLB7B2cnDkwQRSwG5ju",
-      "HWID": null,
-      "Expires": "2026-09-20T20:55:28",
-      "IsBanned": false
-    },
-    {
-      "Username": "sh",
-      "PasswordHash": "$2a$11$FrAqMHeVofVc6ywPAJFMHujBUWOqlEzpoBkuFSNOccu01oxgEZ/by",
-      "HWID": null,
-      "Expires": "2026-09-20T20:55:28",
-      "IsBanned": false
-    }
-  ]
+  "Users": []
 }
