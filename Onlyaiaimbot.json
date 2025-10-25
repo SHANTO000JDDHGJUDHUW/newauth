@@ -42,6 +42,13 @@
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "mahin",
+      "PasswordHash": "$2a$11$w8twBVNRErePSGsNdYOgDuELpUQUdKboq159DrHy5Q8vHoU/nVim.",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
