@@ -91,6 +91,13 @@
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "kobir",
+      "PasswordHash": "$2a$11$3ppk19G4DNopizxFnWEZdu/dveuMnaoYXiZYysvPDnstIznaMlkKu",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
