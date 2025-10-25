@@ -20,7 +20,7 @@
       "PasswordHash": "$2a$11$AVtMNg.2.8qGYSp5Gh/w5O7T88z9uOJxGjTuOlMjBu2kLSMxHqDeq",
       "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
       "Expires": "2030-10-25T20:55:28",
-      "IsBanned": false
+      "IsBanned": true
     },
     {
       "Username": "abir",
