@@ -28,6 +28,13 @@
       "HWID": null,
       "Expires": "2030-10-25T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "anik",
+      "PasswordHash": "$2a$11$91sQPtyz/NEMiVQ5CWrStuyoVsPEZ4PjjxMAItJqrL3njPtvgORGy",
+      "HWID": null,
+      "Expires": "2030-10-25T20:55:28",
+      "IsBanned": false
     }
   ]
 }
