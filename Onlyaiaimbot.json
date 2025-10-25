@@ -14,6 +14,13 @@
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "anin",
+      "PasswordHash": "$2a$11$6hzrv5OYOtFyhML6mq9dQ.iLVH4Rhl9SgMi5avAfOnRwsFrHrcFfK",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
