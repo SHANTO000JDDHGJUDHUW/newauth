@@ -1,1 +1,12 @@
-1
+{
+  "Pause": false,
+  "Users": [
+    {
+      "Username": "anin",
+      "PasswordHash": "$2a$11$SfxR.DTcpz8zcGl4fc2n7.TaSD0fuZvKf6WKc5DWAtiCxEI2Q0M7.",
+      "HWID": null,
+      "Expires": "2030-10-25T20:55:28",
+      "IsBanned": false
+    }
+  ]
+}
