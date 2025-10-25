@@ -2,13 +2,6 @@
   "Pause": false,
   "Users": [
     {
-      "Username": "f",
-      "PasswordHash": "$2a$11$dczK/hWscwV11Jdj4CHiIuMsQ//U1Ee2OjDBIk61u7mXCPzzekNta",
-      "HWID": null,
-      "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "anin",
       "PasswordHash": "$2a$11$53u6uzbPinlD/jx4M7uYau2Xeqpc792X6O9DIJRk6QsKrMN3mjCNi",
       "HWID": null,
