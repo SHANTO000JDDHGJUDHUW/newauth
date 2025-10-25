@@ -105,6 +105,13 @@
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "shihab",
+      "PasswordHash": "$2a$11$sNpKZBgvdwABFXzD4n4fF.Nr5qMtTZ6.UVHiD2NgA9snHeEfDWWt2",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
