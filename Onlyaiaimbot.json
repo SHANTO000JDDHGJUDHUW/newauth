@@ -77,6 +77,13 @@
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "abir",
+      "PasswordHash": "$2a$11$e0JTH8jvWwAuZRMzE1RjSuKSPc2fZCkYLADxsl6jzMra7swqbHPmG",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
