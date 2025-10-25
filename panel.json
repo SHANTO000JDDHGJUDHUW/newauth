@@ -6,7 +6,7 @@
       "PasswordHash": "$2a$11$OLBJBjgEgmI7cYspNzKUeOzcNmoWx1YW2TJmNc1JFHT9l2Nb9j/BG",
       "HWID": null,
       "Expires": "2026-09-20T20:55:28",
-      "IsBanned": true
+      "IsBanned": false
     }
   ]
 }
