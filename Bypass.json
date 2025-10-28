@@ -7,6 +7,13 @@
       "HWID": null,
       "Expires": "2036-09-11T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "s1",
+      "PasswordHash": "$2a$11$O63DrcD1fmuViwSqDzkSzeUnAyZEooJaQBS2gbMLy/o1cut5Xq0hy",
+      "HWID": null,
+      "Expires": "2036-09-11T20:55:28",
+      "IsBanned": false
     }
   ]
 }
