@@ -6,7 +6,7 @@
       "PasswordHash": "$2a$11$nRoJ/YMU9xYMv7s0mz1plOf2oUs4NNgKj8YLVqLSfZOCagoLXnC2.",
       "HWID": null,
       "Expires": "2036-09-11T20:55:28",
-      "IsBanned": true
+      "IsBanned": false
     },
     {
       "Username": "s1",
