@@ -2,13 +2,6 @@
   "Pause": false,
   "Users": [
     {
-      "Username": "ss",
-      "PasswordHash": "$2a$11$7Y5OZK/KMUueQy/6MXYaJ.2ph2plhceJDwRviKReShAGcIZW/oAHy",
-      "HWID": null,
-      "Expires": "2036-09-11T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "s12",
       "PasswordHash": "$2a$11$wRbxaBGbYuqPQvD3ALsLaeqkLcptc5MPIfOKx23TMR1sxLKsYhRpG",
       "HWID": null,
