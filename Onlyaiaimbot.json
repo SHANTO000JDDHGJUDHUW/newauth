@@ -55,7 +55,7 @@
       "PasswordHash": "$2a$11$vYh0susD1sm/bUD8LPNGVerdE5.K3M6eR.VqkghRdbCFDdl1TFRLq",
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
+      "IsBanned": true
     },
     {
       "Username": "turjo",
