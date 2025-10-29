@@ -21,6 +21,13 @@
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "SAGOR",
+      "PasswordHash": "$2a$11$lZ.zQ1hgXNfUm2Oz7PXM..XeN7Ry99Ah2ksDjWsiaKhS.Kzbsv0Ji",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
