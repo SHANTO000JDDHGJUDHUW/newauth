@@ -104,7 +104,7 @@
       "PasswordHash": "$2a$11$ER1J.G.g5RLsMrLj.98YweSV0q1jaz4UjfAfMz3yedq9Bx5xh/coi",
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
+      "IsBanned": true
     },
     {
       "Username": "shihab",
