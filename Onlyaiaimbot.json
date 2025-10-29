@@ -90,7 +90,7 @@
       "PasswordHash": "$2a$11$DmRTEB8ZwSjyZrAYcwwXm.DJih6JeNdV4fyhVrmVO.AdnWJ2Xfq6W",
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
+      "IsBanned": true
     },
     {
       "Username": "kobir",
