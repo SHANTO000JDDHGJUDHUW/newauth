@@ -118,7 +118,7 @@
       "PasswordHash": "$2a$11$wyyOhNnxX3ecTs2XWbUmGeu1hTz2W/vcRFiwNEr9XiwpK53HJkfee",
       "HWID": null,
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": true
+      "IsBanned": false
     },
     {
       "Username": "musad",
