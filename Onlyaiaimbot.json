@@ -111,7 +111,7 @@
       "PasswordHash": "$2a$11$sNpKZBgvdwABFXzD4n4fF.Nr5qMtTZ6.UVHiD2NgA9snHeEfDWWt2",
       "HWID": "4990be23-71aa-473d-ae44-ed829ef7d535",
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
+      "IsBanned": true
     },
     {
       "Username": "sojib",
