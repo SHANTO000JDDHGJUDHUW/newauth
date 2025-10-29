@@ -126,13 +126,6 @@
       "HWID": "493de5b3-1c9c-4e56-93b2-286ef0fab344",
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": true
-    },
-    {
-      "Username": "SAGOR",
-      "PasswordHash": "$2a$11$07sf2bF7b5V/7NOFkmNcAeXfX8TfmgYFKR3DQfn1uIyINbCfzAdmy",
-      "HWID": null,
-      "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
     }
   ]
 }
