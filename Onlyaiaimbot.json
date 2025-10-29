@@ -13,7 +13,7 @@
       "PasswordHash": "$2a$11$hCIwSfVSaYmNaXMOcqpN4Ou6HpaWG9OEOTkecLgJlHwAwBy3mKzmC",
       "HWID": "0e3a2bae-456a-4c7f-9229-f9b4ac09d9c6",
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
+      "IsBanned": true
     },
     {
       "Username": "anin",
