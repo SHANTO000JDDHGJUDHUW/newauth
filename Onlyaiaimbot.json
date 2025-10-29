@@ -27,7 +27,7 @@
       "PasswordHash": "$2a$11$XFfGZQxBS68yG/mSE5JDjO/yUpjNCdvR6eVAErEBZgnBJBVoJIrEq",
       "HWID": "9aac9fac-8e85-4454-b9a5-ed7fb7b89232",
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": true
+      "IsBanned": false
     },
     {
       "Username": "nahid",
