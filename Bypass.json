@@ -34,7 +34,7 @@
       "PasswordHash": "$2a$11$CRdUJ2K49B7QNulAvEimZOJuAr0iK86cXqvQ0iSAvoA18U04tZ9cS",
       "HWID": "034755d4-aec0-4ce5-9ef3-5b3fd960d08c",
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": true
+      "IsBanned": false
     },
     {
       "Username": "ANIN",
