@@ -14,6 +14,13 @@
       "HWID": "9aac9fac-8e85-4454-b9a5-ed7fb7b89232",
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "nihad",
+      "PasswordHash": "$2a$11$1De2ynwNnV2Ga3qC0Hswc.Uu6J4R0BZQGK8GS9IEHDDco8d5NXm9a",
+      "HWID": null,
+      "Expires": "2026-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
