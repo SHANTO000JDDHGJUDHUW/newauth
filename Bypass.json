@@ -67,7 +67,7 @@
     {
       "Username": "nihad",
       "PasswordHash": "$2a$11$s1jAPnFdeSwhpLRHQwRVyOcN9KEDgN0Uje7mCL2xZAJUdCOwR70Zm",
-      "HWID": null,
+      "HWID": "a316ed15-4e9c-4438-b5c6-03d5488b6767",
       "Expires": "2026-09-06T20:55:28",
       "IsBanned": false
     }
