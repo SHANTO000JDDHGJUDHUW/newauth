@@ -11,7 +11,7 @@
     {
       "Username": "sajib",
       "PasswordHash": "$2a$11$KuOLZN.oxKa/iFhtNj0c4uxLoYOBlv2/h/DBILGtnGM4S3ENZ2TQi",
-      "HWID": "9aac9fac-8e85-4454-b9a5-ed7fb7b89232",
+      "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
     },
