@@ -83,7 +83,7 @@
       "PasswordHash": "$2a$11$e0JTH8jvWwAuZRMzE1RjSuKSPc2fZCkYLADxsl6jzMra7swqbHPmG",
       "HWID": "859ade2f-704a-4e9a-acd2-62d1fe529b39",
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": true
+      "IsBanned": false
     },
     {
       "Username": "maruf",
