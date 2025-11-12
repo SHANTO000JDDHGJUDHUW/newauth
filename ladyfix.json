@@ -46,7 +46,7 @@
     {
       "Username": "musad",
       "PasswordHash": "$2a$11$uQb3VfLkW7aumleuO51G5OXHu5xCBhWdCX8aXxFAkYeY/pkXfec6y",
-      "HWID": null,
+      "HWID": "57eadcd1-89a9-4e64-8993-2e5512f980e6",
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
     }
