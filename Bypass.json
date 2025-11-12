@@ -77,6 +77,13 @@
       "HWID": "6858fa65-5cea-46b1-8f1e-fea8da566c93",
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "musad",
+      "PasswordHash": "$2a$11$CXju6rsVju4w6fzPYSoVPugwG2B78OxAsNW7IIn.rMF5y7sm8nE/e",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
