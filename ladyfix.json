@@ -38,9 +38,9 @@
     },
     {
       "Username": "anin",
-      "PasswordHash": "$2a$11$P5/o6wd4VYl3YJ/Lg5Lb1.1307IIZ.LvzmmmZEU2yyys34n6HewwG",
+      "PasswordHash": "$2a$11$.smv/dzmwKv.u77HQUZ3HeR.aQzPyIaw3vWd6Jc2Pp7X7tqgGrYCW",
       "HWID": null,
-      "Expires": "2025-12-12T20:55:28",
+      "Expires": "2030-12-12T20:55:28",
       "IsBanned": false
     }
   ]
