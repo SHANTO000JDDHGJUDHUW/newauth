@@ -107,13 +107,6 @@
       "IsBanned": true
     },
     {
-      "Username": "shihab",
-      "PasswordHash": "$2a$11$sNpKZBgvdwABFXzD4n4fF.Nr5qMtTZ6.UVHiD2NgA9snHeEfDWWt2",
-      "HWID": null,
-      "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "musad",
       "PasswordHash": "$2a$11$7sCpIpet3FgaheDv90CxOeVBlqP2Bzi7/vA0gVZdo13gZ7AQBQ2tW",
       "HWID": "493de5b3-1c9c-4e56-93b2-286ef0fab344",
