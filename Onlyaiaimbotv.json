@@ -116,7 +116,7 @@
     {
       "Username": "TRY",
       "PasswordHash": "$2a$11$rO7WKM19gHXIwbfXDR6Zw.Fzf4N1moPbF0RJ5kgdLXr17H7C5egvm",
-      "HWID": null,
+      "HWID": "fbed78cd-8372-4b49-894f-3298fd14ee44",
       "Expires": "2030-03-06T20:55:28",
       "IsBanned": false
     }
