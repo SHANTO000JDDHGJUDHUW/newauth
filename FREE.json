@@ -1,40 +1,4 @@
 {
   "Pause": false,
-  "Users": [
-    {
-      "Username": "TRY",
-      "PasswordHash": "$2a$11$KPYgg7.QbTi0.lA4eag1/uVPqdiPEXw0ZgAPKb8wm.xaOL2v9FfNW",
-      "HWID": null,
-      "Expires": "2026-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
-      "Username": "TRY",
-      "PasswordHash": "$2a$11$/722fMyPjI6UT83kHaKWaeaCs0LmCUx27JoY8yjugn02Wv2lxuI4O",
-      "HWID": null,
-      "Expires": "2026-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
-      "Username": "TRY",
-      "PasswordHash": "$2a$11$hNduqLniMm/bMfxin5uG9ufhO6V7G7hlPsx8PXJw69CAWpaFYCjHy",
-      "HWID": null,
-      "Expires": "2026-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
-      "Username": "TRY",
-      "PasswordHash": "$2a$11$zeIwJkv/f64/NtTGldHGd.HoMCclHdw5ElQ29BeMD8Dh/DsgmkBXy",
-      "HWID": null,
-      "Expires": "2026-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
-      "Username": "TRY",
-      "PasswordHash": "$2a$11$bW0zmz6ONkUMQOhFsnx6xOlit4Wyx281u8zaGGnzbAwl/ITbNxoxS",
-      "HWID": null,
-      "Expires": "2026-09-06T20:55:28",
-      "IsBanned": false
-    }
-  ]
+  "Users": []
 }
