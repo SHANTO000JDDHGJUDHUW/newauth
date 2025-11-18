@@ -2,8 +2,8 @@
   "Pause": false,
   "Users": [
     {
-      "Username": "USER1",
-      "PasswordHash": "$2a$11$MTZGlL7KnL2tw6s2vBZ7auMJJSdH5a0jK/FWx.kkZ11.g.LDv6fe2",
+      "Username": "TRY",
+      "PasswordHash": "$2a$11$bVTJ3vJTKoZAcZikFBHS2uAgwUM.1eVxG6E2aj/JMIgkdK9563SNq",
       "HWID": null,
       "Expires": "2026-09-06T20:55:28",
       "IsBanned": false
