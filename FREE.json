@@ -1,4 +1,12 @@
 {
   "Pause": false,
-  "Users": []
+  "Users": [
+    {
+      "Username": "TRY",
+      "PasswordHash": "$2a$11$lkvBryrHfhU8LnGhDFosI..SyzFYC8WcYTuVq3ZL8nLLzQr4gmYgy",
+      "HWID": null,
+      "Expires": "2026-09-06T20:55:28",
+      "IsBanned": false
+    }
+  ]
 }
