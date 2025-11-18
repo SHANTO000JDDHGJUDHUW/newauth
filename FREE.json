@@ -17,7 +17,7 @@
     },
     {
       "Username": "USER3",
-      "PasswordHash": "$2a$11$nN0nnvRZqtN30X7R9WgPce6ShNJ28F/LnprGq14X.Y5rG/dshgc3G",
+      "PasswordHash": "$2a$11$IwxLUnTXiN7SxTDyEglKl.lh4ZBUgqWZV3NNNhkZyGfHXFqdmVWn2",
       "HWID": null,
       "Expires": "2026-09-06T20:55:28",
       "IsBanned": false
