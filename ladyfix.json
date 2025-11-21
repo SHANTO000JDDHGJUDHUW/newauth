@@ -4,7 +4,7 @@
     {
       "Username": "MARUF",
       "PasswordHash": "$2a$11$5zFpPUT72NVT2dTrJV9cce8VZ4jkZmtqBkbeAw1Liz1gGC2.iytju",
-      "HWID": "bf536dfd-99bb-4e3e-8b53-7f0d4b905576",
+      "HWID": null,
       "Expires": "2026-10-06T20:55:28",
       "IsBanned": false
     },
