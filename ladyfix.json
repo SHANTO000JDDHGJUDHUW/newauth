@@ -2,10 +2,10 @@
   "Pause": false,
   "Users": [
     {
-      "Username": "rone",
-      "PasswordHash": "$2a$11$dGPnypmBJLza2GXq6b3l4ulHG4Sz/8Qly6XEmTvW0kwo.cWxDFgJm",
+      "Username": "MARUF",
+      "PasswordHash": "$2a$11$oY6/H0/txVtudRoX7YM3wuUlZgx4PifKyjbiDa8rh9ERvr93f7BN2",
       "HWID": "bf536dfd-99bb-4e3e-8b53-7f0d4b905576",
-      "Expires": "2025-12-12T20:55:28",
+      "Expires": "2025-10-06T20:55:28",
       "IsBanned": false
     },
     {
