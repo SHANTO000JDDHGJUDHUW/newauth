@@ -2,13 +2,6 @@
   "Pause": false,
   "Users": [
     {
-      "Username": "TRY4",
-      "PasswordHash": "$2a$11$t.yxLFETHdb9pi3kRjB3xuvGD7iDbjjif2Z5ohLg3gvSlX3a3Kbyi",
-      "HWID": null,
-      "Expires": "2026-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "TRY5",
       "PasswordHash": "$2a$11$GZUDY.ppfGzyjFAOFq2dp.RkBGME/ijhzUkX7.4QeGIWFuBIpVSEm",
       "HWID": null,
