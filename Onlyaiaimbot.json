@@ -39,7 +39,7 @@
     {
       "Username": "kaiyum",
       "PasswordHash": "$2a$11$hrWSOu0ieq5DBT6Rb.d2t.rQOutuiVWFJccd1fZQ8O7LOY71kF9CW",
-      "HWID": "6858fa65-5cea-46b1-8f1e-fea8da566c93",
+      "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
     },
@@ -121,6 +121,4 @@
       "IsBanned": false
     }
   ]
-
 }
-
