@@ -4,7 +4,7 @@
     {
       "Username": "HABIB",
       "PasswordHash": "$2a$11$1VPvsEV8jtlNVi6oUmxrEOLJFKTmeZ9o4uQhB9hI3V.Ge.KMP6Gha",
-      "HWID": "4c72a561-6da7-444b-b7a7-f310ee678aef",
+      "HWID": null,
       "Expires": "2026-09-06T20:55:28",
       "IsBanned": false
     },
