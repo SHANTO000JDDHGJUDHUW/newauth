@@ -91,6 +91,13 @@
       "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "MARUF",
+      "PasswordHash": "$2a$11$k4X8wWyNja3/Dnc07p246.qKXFESVFJRTpLrKFbrcJ8F9eM4va99y",
+      "HWID": null,
+      "Expires": "2026-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
