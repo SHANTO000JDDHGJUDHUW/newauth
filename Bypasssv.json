@@ -98,6 +98,13 @@
       "HWID": "4c72a561-6da7-444b-b7a7-f310ee678aef",
       "Expires": "2026-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "hafizul",
+      "PasswordHash": "$2a$11$s2twKWtHk7Jj/K4jpZ49O.Wa.WL/bUfGnhS/ln7/.zXNlblL3cLJq",
+      "HWID": null,
+      "Expires": "2026-01-07T20:55:28",
+      "IsBanned": false
     }
   ]
 }
