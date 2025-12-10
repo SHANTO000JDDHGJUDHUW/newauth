@@ -35,6 +35,13 @@
       "HWID": "709f259b-036e-4a31-a46b-986ef8050ed5",
       "Expires": "2030-12-12T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "ABIR",
+      "PasswordHash": "$2a$11$7M6nDqvgtT/F.rgTp55yuukKNiYdJ9d6rCZQX/JxqiKQnj/DYQzAu",
+      "HWID": null,
+      "Expires": "2026-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
