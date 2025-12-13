@@ -32,7 +32,7 @@
     {
       "Username": "anin",
       "PasswordHash": "$2a$11$XkED54GQJ9t69JNt6ifNT.yKSdr10Ny8Wq3a5O2EC9gb6xDQG76Ly",
-      "HWID": null,
+      "HWID": "709f259b-036e-4a31-a46b-986ef8050ed5",
       "Expires": "2030-12-12T20:55:28",
       "IsBanned": false
     },
