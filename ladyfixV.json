@@ -4,7 +4,7 @@
     {
       "Username": "RONE",
       "PasswordHash": "$2a$11$kP51pyKLDfAtjUJUnmdeT.KuMo7rcU/5LHCWC/vyfD.8.QO77OMx2",
-      "HWID": "4c72a561-6da7-444b-b7a7-f310ee678aef",
+      "HWID": null,
       "Expires": "2025-12-15T20:55:28",
       "IsBanned": false
     },
