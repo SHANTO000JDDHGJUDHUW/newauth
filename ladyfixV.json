@@ -2,13 +2,6 @@
   "Pause": false,
   "Users": [
     {
-      "Username": "RONE",
-      "PasswordHash": "$2a$11$kP51pyKLDfAtjUJUnmdeT.KuMo7rcU/5LHCWC/vyfD.8.QO77OMx2",
-      "HWID": null,
-      "Expires": "2025-12-15T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "shanto",
       "PasswordHash": "$2a$11$8KL0/TzzdaxFBbN5aTUKfOYrIF02wNXcqSvLTOl01b9Qxvy3WqZMq",
       "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
@@ -48,13 +41,6 @@
       "PasswordHash": "$2a$11$uQb3VfLkW7aumleuO51G5OXHu5xCBhWdCX8aXxFAkYeY/pkXfec6y",
       "HWID": "57eadcd1-89a9-4e64-8993-2e5512f980e6",
       "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
-      "Username": "RONE",
-      "PasswordHash": "$2a$11$.1IybL0mNXWlLCrdMJQNveZL3Li.qfN9MqiO1FzGzB0nN0oopNxpa",
-      "HWID": "bf536dfd-99bb-4e3e-8b53-7f0d4b905576",
-      "Expires": "2025-12-12T20:55:28",
       "IsBanned": false
     }
   ]
