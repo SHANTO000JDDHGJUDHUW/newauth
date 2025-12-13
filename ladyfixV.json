@@ -42,6 +42,13 @@
       "HWID": "57eadcd1-89a9-4e64-8993-2e5512f980e6",
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "RONE",
+      "PasswordHash": "$2a$11$9NBb1coeiOwO1kEqT6ieOeTQqgKLlVb4rPLCtNiQaBK1586w3ABm.",
+      "HWID": null,
+      "Expires": "2025-12-15T20:55:28",
+      "IsBanned": false
     }
   ]
 }
