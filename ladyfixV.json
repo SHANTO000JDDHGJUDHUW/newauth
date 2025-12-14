@@ -49,6 +49,13 @@
       "HWID": "bf536dfd-99bb-4e3e-8b53-7f0d4b905576",
       "Expires": "2025-12-15T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "maruf",
+      "PasswordHash": "$2a$11$abVjrabfkCQFAr6E09vfkONmHHLS5Pr6z3McNKEZ9IoB8Mn3kk.bi",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
     }
   ]
 }
