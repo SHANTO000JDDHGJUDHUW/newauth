@@ -46,7 +46,7 @@
     {
       "Username": "maruf",
       "PasswordHash": "$2a$11$.gZBWJJIlJt3d9XdsG/t/uOs6ezEHcGfjX1oWX5WMUdSV7LOVYhQK",
-      "HWID": null,
+      "HWID": "4c72a561-6da7-444b-b7a7-f310ee678aef",
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
     }
