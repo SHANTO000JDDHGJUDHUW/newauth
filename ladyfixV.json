@@ -44,13 +44,6 @@
       "IsBanned": false
     },
     {
-      "Username": "RONE",
-      "PasswordHash": "$2a$11$9NBb1coeiOwO1kEqT6ieOeTQqgKLlVb4rPLCtNiQaBK1586w3ABm.",
-      "HWID": "bf536dfd-99bb-4e3e-8b53-7f0d4b905576",
-      "Expires": "2025-12-15T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "maruf",
       "PasswordHash": "$2a$11$abVjrabfkCQFAr6E09vfkONmHHLS5Pr6z3McNKEZ9IoB8Mn3kk.bi",
       "HWID": "4c72a561-6da7-444b-b7a7-f310ee678aef",
