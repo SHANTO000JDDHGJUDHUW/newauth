@@ -2,13 +2,6 @@
   "Pause": false,
   "Users": [
     {
-      "Username": "HABIB",
-      "PasswordHash": "$2a$11$1VPvsEV8jtlNVi6oUmxrEOLJFKTmeZ9o4uQhB9hI3V.Ge.KMP6Gha",
-      "HWID": "950caac1-62c5-40ec-8bb0-a00ac4804b3d",
-      "Expires": "2026-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "SAJIB",
       "PasswordHash": "$2a$11$MPPUWZPeIOq.tUErbOiAeudrQ/906GmIn55cnsvtairp9h.Aqq4ea",
       "HWID": "330dac46-e061-4020-8807-bf6b1ac3f130",
