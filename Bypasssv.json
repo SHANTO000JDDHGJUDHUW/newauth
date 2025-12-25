@@ -58,13 +58,6 @@
       "IsBanned": false
     },
     {
-      "Username": "try",
-      "PasswordHash": "$2a$11$xfYEaIKbkC8NuzRmo9jlvOeuOKgp.78vTLFIZVoT9/.zAPZhBAhXi",
-      "HWID": null,
-      "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "TURJO",
       "PasswordHash": "$2a$11$CL6f5DEFlOGIsljUSHHX9.rwHLcmyjwumpnUEifX11vmVHwqLq9Cu",
       "HWID": "a3afa8e0-64d9-4dae-a202-e2ed7c3226ef",
@@ -95,7 +88,7 @@
     {
       "Username": "eva",
       "PasswordHash": "$2a$11$Rj9byS6V8KAtTTSHJDd29uoFZyaMfRpvY7EphbCMPZYeQcEJrsjLe",
-      "HWID": "97437afa-e6e3-4efa-ae41-e174e4ef8c83",
+      "HWID": null,
       "Expires": "2030-12-25T20:55:28",
       "IsBanned": false
     }
