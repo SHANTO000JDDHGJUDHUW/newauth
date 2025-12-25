@@ -63,6 +63,13 @@
       "HWID": null,
       "Expires": "2025-12-25T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "eva",
+      "PasswordHash": "$2a$11$1tSqgsu6pUwKGU3Axh4nVOWL4iRgUTYY030lrdF9sX2s/DiaNHYb2",
+      "HWID": null,
+      "Expires": "2030-12-25T20:55:28",
+      "IsBanned": false
     }
   ]
 }
