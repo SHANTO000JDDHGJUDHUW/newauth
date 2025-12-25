@@ -81,8 +81,15 @@
     {
       "Username": "eva",
       "PasswordHash": "$2a$11$Rj9byS6V8KAtTTSHJDd29uoFZyaMfRpvY7EphbCMPZYeQcEJrsjLe",
-      "HWID": "97437afa-e6e3-4efa-ae41-e174e4ef8c83",
+      "HWID": null,
       "Expires": "2030-12-25T20:55:28",
+      "IsBanned": false
+    },
+    {
+      "Username": "SAJIB",
+      "PasswordHash": "$2a$11$DtaZcgWNMJ3CNwGThLMdIOJr/SuRXnoJiknizy1GCkiNeDekj04pK",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
     }
   ]
