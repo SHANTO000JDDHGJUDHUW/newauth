@@ -91,6 +91,13 @@
       "HWID": "67141da6-16ae-46d2-8b7b-95e086407680",
       "Expires": "2026-01-07T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "eva",
+      "PasswordHash": "$2a$11$Rj9byS6V8KAtTTSHJDd29uoFZyaMfRpvY7EphbCMPZYeQcEJrsjLe",
+      "HWID": null,
+      "Expires": "2030-12-25T20:55:28",
+      "IsBanned": false
     }
   ]
 }
