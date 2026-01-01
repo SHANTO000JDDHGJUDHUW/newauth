@@ -4,7 +4,7 @@
     {
       "Username": "shanto",
       "PasswordHash": "$2a$11$8KL0/TzzdaxFBbN5aTUKfOYrIF02wNXcqSvLTOl01b9Qxvy3WqZMq",
-      "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
+      "HWID": null,
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
     },
