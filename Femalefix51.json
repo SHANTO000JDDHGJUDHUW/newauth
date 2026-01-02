@@ -74,7 +74,7 @@
     {
       "Username": "2",
       "PasswordHash": "$2a$11$rQ7Igus646SEvHNzhvmDz..CzJ9tghoiUpTBDpzJM4s2otLJrlKeu",
-      "HWID": null,
+      "HWID": "a90e1887-5112-4835-84b9-39bd862c9412",
       "Expires": "2030-12-12T20:55:28",
       "IsBanned": false
     }
