@@ -70,6 +70,13 @@
       "HWID": "97437afa-e6e3-4efa-ae41-e174e4ef8c83",
       "Expires": "2030-12-25T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "2",
+      "PasswordHash": "$2a$11$rQ7Igus646SEvHNzhvmDz..CzJ9tghoiUpTBDpzJM4s2otLJrlKeu",
+      "HWID": null,
+      "Expires": "2030-12-12T20:55:28",
+      "IsBanned": false
     }
   ]
 }
