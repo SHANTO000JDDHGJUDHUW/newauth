@@ -51,13 +51,6 @@
       "IsBanned": true
     },
     {
-      "Username": "Nirob",
-      "PasswordHash": "$2a$11$MLE080HZjZQulNC3GWhBFOvYmSWi5GwncfOyPzJrOiFwBS45vdhjS",
-      "HWID": "8ddd0c95-320f-4c54-b37d-a5b8f7b2f577",
-      "Expires": "2025-12-27T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "musad",
       "PasswordHash": "$2a$11$az.HkMz4SKSC7or4XOmwoOmSzcf.JTrM3nBumXYBSyCDLkztv59qm",
       "HWID": "57eadcd1-89a9-4e64-8993-2e5512f980e6",
