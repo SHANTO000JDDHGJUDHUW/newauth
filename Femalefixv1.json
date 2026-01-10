@@ -73,9 +73,9 @@
     },
     {
       "Username": "eva",
-      "PasswordHash": "$2a$11$THgxwSXMzM8XrSHmIeqLtuyeqk0lONjgteGTi2vOd./7cOgd7XYGK",
+      "PasswordHash": "$2a$11$LY7hkteA19PcIktu3LCo9eSufXaKbXmOZ2DJjw6O8MhUaNLmr3h2e",
       "HWID": "97437afa-e6e3-4efa-ae41-e174e4ef8c83",
-      "Expires": "2026-01-10T20:55:28",
+      "Expires": "2030-01-10T20:55:28",
       "IsBanned": false
     },
     {
